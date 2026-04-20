@@ -160,5 +160,5 @@ docker-compose up --build
 
 ### Developed by
 
-**Prathamesh Kumbhar**  
+**Suraj Kalugade**  
 Java Full Stack Web Developer
